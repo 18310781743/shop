@@ -1,7 +1,7 @@
 package com.zcc.service;
 
-import com.zcc.entiy.Student;
+import com.zcc.entiy.StudentDO;
 
 public interface StudentService {
-    int add(Student student);
+    int add(StudentDO studentDO);
 }

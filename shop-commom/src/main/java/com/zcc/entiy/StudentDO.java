@@ -1,6 +1,6 @@
 package com.zcc.entiy;
 
-public class Student extends BaseDO{
+public class StudentDO extends BaseDO{
     private String name;
     private Integer age;
 
