@@ -12,6 +12,7 @@
     <module>shop-api</module>
     <module>shop-service</module>
     <module>shop-commom</module>
+      <module>shop-dao</module>
   </modules>
 
   <name>shop</name>
