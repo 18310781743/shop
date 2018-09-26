@@ -9,3 +9,4 @@ shop-service/target/
 shop-web/src/main/resources/static/
 shop-web/src/main/resources/templates/
 shop-web/target/
+.idea/libraries/*
